@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "Data Dynamics (DDTI)";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Carroll County (Official Site)", category: "Government", subcategory: "County", url: "https://carrollcountyohio.us/", description: "Official Carroll County government website — agencies, departments, and services." },
